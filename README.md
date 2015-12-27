@@ -1,6 +1,9 @@
+hadoop
+======
+
 Hadoop Cluster Configurations
 
-This is intended to help Hadoop Users, specifically users with System Administration background to setup Hadoop quickly and efficiently.
+This is intended to help Hadoop Users, specifically users with System Administration background to setup Hadoop quickly and efficiently. 
 
 The config files are from running cluster. Feel free to use them, but please drop an email with your feedback.
 
